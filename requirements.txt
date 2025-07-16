@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-ollama
+chromadb
+python-dotenv
